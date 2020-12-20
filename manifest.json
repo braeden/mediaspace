@@ -3,9 +3,8 @@
     "description": "UIUC mediaspace download",
     "devtools_page": "devtools.html",
     "manifest_version": 2,
-    "version": "2.0.1",
+    "version": "0.0.1",
     "permissions": [
-        "tabs", 
         "https://mediaspace.illinois.edu/*"
     ]
 }
